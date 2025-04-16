@@ -1,0 +1,57 @@
+body {
+    font-family: 'Segoe UI', sans-serif;
+    background-color: lavender;
+  }
+  
+  .container {
+    max-width: 800px;
+    margin: 40px;
+    background-color: white;
+    padding: 30px;
+  }
+  
+  .header {
+    text-align: center;
+    border-bottom: 2px solid beige;
+    margin-bottom: 20px;
+  }
+  
+  .header h1 {
+    margin: 0;
+    font-size: 2.5em;
+    color: black;
+  }
+  
+  .block {
+    margin-bottom: 20px;
+  }
+  
+  .block h2 {
+    color: royalblue;
+    border-bottom: 1px solid beige;
+    padding-bottom: 5px;
+  }
+  
+  .item {
+    margin-top: 10px;
+  }
+  
+  .item h3 {
+    margin: 0;
+    font-size: 1.2em;
+  }
+  
+  .item span {
+    display: block;
+    font-size: 0.9em;
+    color: rgb(171, 141, 141);
+  }
+  
+  .skills ul {
+    list-style-type: square;
+    padding-left: 20px;
+  }
+  
+  .skills li {
+    margin-bottom: 5px;
+  }
